@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveu.9754b53d-d25c-11eb-ae63-c03eba081e69.jpg</filename>
+	<path>D:\TRUONG\Code\ASL\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveu.9754b53d-d25c-11eb-ae63-c03eba081e69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>227</ymin>
+			<xmax>466</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.2f473cda-d25c-11eb-b0bf-c03eba081e69.jpg</filename>
+	<path>D:\TRUONG\Code\ASL\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.2f473cda-d25c-11eb-b0bf-c03eba081e69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>254</ymin>
+			<xmax>622</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
